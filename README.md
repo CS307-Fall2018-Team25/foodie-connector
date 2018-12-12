@@ -2,7 +2,7 @@
 
 **This project is not production ready.**
 
-This is a project for CS 373 Software Engineering I at Purdue University. This is a food delivery platform where you can place group orders with your friends and neighbors.
+This is a project for CS 307 Software Engineering I at Purdue University. This is a food delivery platform where you can place group orders with your friends and neighbors.
 
 ## Run the frontend
 
